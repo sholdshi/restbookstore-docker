@@ -59,15 +59,15 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bwce.sample.binding.rest.BookStore//dbURL</name>
-			<value>jdbc:postgresql://172.17.0.1:5432/postgres</value>
+			<value>jdbc:postgresql://localhost:5432/postgres</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<isOverride>true</isOverride>
+			<isOverride>false</isOverride>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bwce.sample.binding.rest.BookStore//dbPassword</name>
-			<value>#!CxV1f1arDXSNhCU7qQzOW/tf96heG6hHUrDtTYP4bsI=</value>
+			<value>#!fn2fAp/vXhinjkGWbL03cpo7a0DTqrE6HvViThzE1rk=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
