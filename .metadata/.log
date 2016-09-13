@@ -2257,3 +2257,6 @@ Caused by: java.lang.ClassCastException: com.tibco.bw.core.design.process.editor
 
 !ENTRY org.eclipse.gmf.runtime.draw2d.ui 2 2 2016-09-13 22:07:03.882
 !MESSAGE MapModeUtil#getMapMode(IFigure fig) fig parameter must be attached to a parent - using default MapMode
+
+!ENTRY org.eclipse.ui 2 2 2016-09-13 22:55:43.748
+!MESSAGE Invalid preference category path: tibco.preference.category.soa_platform (bundle: com.tibco.amf.tools.composite.editor, page: com.tibco.amf.sca.model.composite.diagram.general)
