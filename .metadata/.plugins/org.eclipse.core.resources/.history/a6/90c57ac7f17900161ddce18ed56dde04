@@ -67,7 +67,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bwce.sample.binding.rest.BookStore//dbPassword</name>
-			<value>#!fn2fAp/vXhinjkGWbL03cpo7a0DTqrE6HvViThzE1rk=</value>
+			<value>#!CxV1f1arDXSNhCU7qQzOW/tf96heG6hHUrDtTYP4bsI=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
