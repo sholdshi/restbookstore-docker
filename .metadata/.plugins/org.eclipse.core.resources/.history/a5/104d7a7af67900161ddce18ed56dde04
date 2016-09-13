@@ -140,7 +140,7 @@
             <wsdl:import namespace="http://xmlns.example.com/20141006121028"/>
         </wsdl:definitions>
     </tibex:Types>
-    <tibex:ProcessInfo callable="false" createdBy="nshah"
+    <tibex:ProcessInfo createdBy="nshah"
         createdOn="Mon Sep 29 16:48:12 IST 2014" description=""
         modifiers="public" productVersion="1.2.0 V18 2014-09-27"
         scalable="true" singleton="true" stateless="true" type="IT"/>
