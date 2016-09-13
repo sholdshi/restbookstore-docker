@@ -1,7 +1,7 @@
 {
   "apiVersion" : "1.0",
   "swaggerVersion" : "1.2",
-  "basePath" : "0.0.0.0:8888",
+  "basePath" : "0.0.0.0:8090",
   "resourcePath" : "/Books",
   "apis" : [ {
     "path" : "/book/{ISBN}",
