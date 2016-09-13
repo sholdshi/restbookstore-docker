@@ -3188,8 +3188,6 @@
                             </bpws:extensionActivity>
                             <bpws:extensionActivity>
                                 <tibex:activityExtension
-                                    expression="0.2"
-                                    expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath2.0"
                                     inputVariable="Discount"
                                     name="Discount"
                                     outputVariable="Discount"
@@ -3197,10 +3195,6 @@
                                     <bpws:sources>
                                     <bpws:source linkName="Assign1TogetBooks"/>
                                     </bpws:sources>
-                                    <tibex:inputBindings>
-                                    <tibex:inputBinding
-                                    expression="0.2" expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath2.0"/>
-                                    </tibex:inputBindings>
                                     <tibex:config>
                                     <bwext:BWActivity
                                     activityTypeID="bw.generalactivities.bwassign"
