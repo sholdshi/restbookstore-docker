@@ -6,13 +6,13 @@
 
 
 
-<location path="C:/tibco/bwce210/bwce/2.1/system/hotfix/lib/common" type="Directory"/>
-<location path="C:/tibco/bwce210/bwce/2.1/system/lib/common" type="Directory"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/hotfix/lib/common" type="Directory"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/lib/common" type="Directory"/>
 
-<location path="C:/tibco/bwce210/bwce/2.1/system/hotfix/palettes" type="Directory"/>
-<location path="C:/tibco/bwce210/bwce/2.1/system/palettes" type="Directory"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/hotfix/palettes" type="Directory"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/palettes" type="Directory"/>
 
-<location path="C:/tibco/bwce210/bwce/2.1/system/hotfix/shared" type="Directory"/>
-<location path="C:/tibco/bwce210/bwce/2.1/system/shared" type="Profile"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/hotfix/shared" type="Directory"/>
+<location path="/Users/sholdshi/bwce/bwce/2.1/system/shared" type="Profile"/>
 </locations>
 </target>
