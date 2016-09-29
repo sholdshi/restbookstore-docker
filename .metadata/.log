@@ -7302,3 +7302,49 @@ java.lang.RuntimeException
 
 !ENTRY com.tibco.xpd.fragments 4 0 2016-09-29 10:34:25.848
 !MESSAGE com.tibco.xpd.fragments.internal.FragmentsManager$5.run(FragmentsManager.java:787) FragmentsManager.initialize(): No root categories found!!!
+
+!ENTRY org.eclipse.pde.core 4 0 2016-09-29 10:39:02.378
+!MESSAGE The current target platform contains errors, open Window > Preferences > Plug-in Development > Target Platform for details.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Problems occurred getting the plug-ins in this container
+	at org.eclipse.pde.internal.core.PluginModelManager.getExternalBundles(PluginModelManager.java:604)
+	at org.eclipse.pde.internal.core.PluginModelManager.initializeTable(PluginModelManager.java:525)
+	at org.eclipse.pde.internal.core.PluginModelManager.findModel(PluginModelManager.java:874)
+	at org.eclipse.pde.core.plugin.PluginRegistry.findModel(PluginRegistry.java:110)
+	at org.eclipse.pde.internal.core.project.PDEProject.getLocalizationFile(PDEProject.java:254)
+	at org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker.isLocalizationFile(ManifestConsistencyChecker.java:141)
+	at org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker.access$4(ManifestConsistencyChecker.java:140)
+	at org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker$SelfVisitor.visit(ManifestConsistencyChecker.java:97)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:69)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:80)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:49)
+	at org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker.getDeltaType(ManifestConsistencyChecker.java:183)
+	at org.eclipse.pde.internal.core.builders.ManifestConsistencyChecker.build(ManifestConsistencyChecker.java:150)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Contains: Directory does not exist: /Users/sholdshi/bwce/bwce/2.1/system/hotfix/lib/common
+!SUBENTRY 1 org.eclipse.pde.core 4 0 2016-09-29 10:39:02.379
+!MESSAGE Problems occurred getting the plug-ins in this container
+!SUBENTRY 2 org.eclipse.pde.core 4 0 2016-09-29 10:39:02.379
+!MESSAGE Directory does not exist: /Users/sholdshi/bwce/bwce/2.1/system/hotfix/lib/common
+
+!ENTRY org.eclipse.bpel.validator 1 0 2016-09-29 10:39:03.444
+!MESSAGE Validator Startup 28ms
