@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.zion.dc.editor.packageunit&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore.application/META-INF/MANIFEST.MF&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore.application/META-INF/MANIFEST.MF&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.bw.ui.manifestEditor&quot; name=&quot;MANIFEST.MF&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/META-INF/MANIFEST.MF&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/META-INF/MANIFEST.MF&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.bw.sharedresource.httpconnector.design.editor&quot; name=&quot;Books.httpConnResource&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Resources/tibco/bwce/sample/binding/rest/BookStore/Books.httpConnResource&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Resources/tibco/bwce/sample/binding/rest/BookStore/Books.httpConnResource&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.bw.core.design.process.editor.diagram.part.BWDiagramEditorID&quot; name=&quot;Books.bwp&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/Books.bwp&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/Books.bwp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.bw.core.design.process.editor.diagram.part.BWDiagramEditorID&quot; name=&quot;BooksDB.bwp&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/db/BooksDB.bwp&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/db/BooksDB.bwp&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.pde.ui.buildEditor&quot; name=&quot;build.properties&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/build.properties&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/build.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;docker-dev.properties&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore.application/docker-dev.properties&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore.application/docker-dev.properties&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore.application/pom.xml&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore.application/pom.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.amf.design.sr.data.jdbc.editor&quot; name=&quot;JDBCConnectionResource.jdbcResource&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Resources/tibco/bwce/sample/binding/rest/BookStore/JDBCConnectionResource.jdbcResource&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Resources/tibco/bwce/sample/binding/rest/BookStore/JDBCConnectionResource.jdbcResource&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.tibco.bw.core.design.process.editor.diagram.part.BWDiagramEditorID&quot; name=&quot;Activator.bwp&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/Activator.bwp&quot;>&#xA;&lt;persistable path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/Activator.bwp&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_sq1AcXqlEeafl_RWpn8xdQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_sq1AcnqlEeafl_RWpn8xdQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="22" width="1436" height="850">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_sq1AcXqlEeafl_RWpn8xdQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_sq1AcnqlEeafl_RWpn8xdQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="22" width="1436" height="698">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
@@ -41,7 +41,7 @@
           <tags>persp.actionSet:org.eclipse.debug.ui.launchActionSet</tags>
           <tags>persp.actionSet:org.eclipse.jdt.ui.JavaActionSet</tags>
           <tags>persp.actionSet:org.eclipse.jdt.ui.SearchActionSet</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_sq1AdXqlEeafl_RWpn8xdQ" selectedElement="_sq1AdnqlEeafl_RWpn8xdQ" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_sq1AdXqlEeafl_RWpn8xdQ" selectedElement="_sq1AfXqlEeafl_RWpn8xdQ" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_sq1AdnqlEeafl_RWpn8xdQ" containerData="2011" selectedElement="_sq1AeXqlEeafl_RWpn8xdQ">
               <children xsi:type="basic:PartStack" xmi:id="_sq1Ad3qlEeafl_RWpn8xdQ" elementId="topLeft" containerData="6000" selectedElement="_sq1AeHqlEeafl_RWpn8xdQ">
                 <tags>newtablook</tags>
@@ -49,17 +49,17 @@
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_sq1AeXqlEeafl_RWpn8xdQ" elementId="bottomLeft" containerData="4000" selectedElement="_sq1AfHqlEeafl_RWpn8xdQ">
                 <tags>newtablook</tags>
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1AenqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.views.ContentOutline" ref="_sq1oT3qlEeafl_RWpn8xdQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1Ae3qlEeafl_RWpn8xdQ" elementId="com.tibco.bw.core.design.module.property.view.views.BWModuleView" ref="_sq1oTnqlEeafl_RWpn8xdQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1AfHqlEeafl_RWpn8xdQ" elementId="com.tibco.zion.fileexplorer.views.FileExplorerView" ref="_sq1oQHqlEeafl_RWpn8xdQ"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_sq1AfXqlEeafl_RWpn8xdQ" containerData="7989" selectedElement="_sq1AfnqlEeafl_RWpn8xdQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_sq1AfXqlEeafl_RWpn8xdQ" containerData="7989" selectedElement="_sq1Af3qlEeafl_RWpn8xdQ">
               <children xsi:type="advanced:Placeholder" xmi:id="_sq1AfnqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.editorss" containerData="7373" ref="_sq1n7XqlEeafl_RWpn8xdQ"/>
               <children xsi:type="basic:PartStack" xmi:id="_sq1Af3qlEeafl_RWpn8xdQ" elementId="bottom" containerData="2627" selectedElement="_sq1AgHqlEeafl_RWpn8xdQ">
                 <tags>newtablook</tags>
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1AgHqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_sq1oUnqlEeafl_RWpn8xdQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1AgXqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.views.ProblemView" ref="_sq1ocXqlEeafl_RWpn8xdQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_sq1AgnqlEeafl_RWpn8xdQ" elementId="com.tibco.zion.common.zionhelpview" toBeRendered="false" ref="_sq1ogHqlEeafl_RWpn8xdQ"/>
@@ -152,7 +152,6 @@
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>noFocus</tags>
         <children xsi:type="basic:Part" xmi:id="_sq1n73qlEeafl_RWpn8xdQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BooksDB.bwp" iconURI="platform:/plugin/com.tibco.bw.core.design.process.editor/icons/obj16/bw_process_16x16.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;com.tibco.bw.core.design.process.editor.diagram.part.BWDiagramEditorID&quot; name=&quot;BooksDB.bwp&quot; partName=&quot;BooksDB.bwp&quot; title=&quot;BooksDB.bwp&quot; tooltip=&quot;tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/db/BooksDB.bwp&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/tibco.bwce.sample.binding.rest.BookStore/Processes/tibco/bwce/sample/binding/rest/bookstore/db/BooksDB.bwp&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -213,8 +212,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view com.tibco.zion.fileexplorer.history.length=&quot;0&quot; com.tibco.zion.fileexplorer.state.currentFolder=&quot;/Users/sholdshi/bwce/studio/4.0/eclipse/TIBCOBusinessStudio.app/Contents/MacOS/C:\tibco\bwce210\bwce\2.1\samples&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:FileSystem</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_sq1oQXqlEeafl_RWpn8xdQ" elementId="com.tibco.zion.fileexplorer.views.FileExplorerView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -247,6 +244,8 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_sq1oU3qlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.views.PropertySheet">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -337,7 +336,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_sq1ol3qlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_lu_PwIYWEeaD_vuBptwvcA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_sq3es3qlEeafl_RWpn8xdQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_gnW4gIYfEeaSK44lGGktuQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_sq3es3qlEeafl_RWpn8xdQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_sq1opHqlEeafl_RWpn8xdQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -367,7 +366,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_sq1o_HqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_lvFWYIYWEeaD_vuBptwvcA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_sq3eLHqlEeafl_RWpn8xdQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_gnbxAIYfEeaSK44lGGktuQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_sq3eLHqlEeafl_RWpn8xdQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_sq1pM3qlEeafl_RWpn8xdQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -871,7 +870,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_6gXhaITAEeaNLr5iH-66qA" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.team.ui.GenericHistoryView"/>
     </bindings>
-    <bindings xmi:id="_lVoUkYYWEeaD_vuBptwvcA" keySequence="COMMAND+CTRL+F" command="_6glj0oTAEeaNLr5iH-66qA"/>
+    <bindings xmi:id="_gTsVoYYfEeaSK44lGGktuQ" keySequence="COMMAND+CTRL+F" command="_6glj0oTAEeaNLr5iH-66qA"/>
   </bindingTables>
   <bindingTables xmi:id="_sq1qTHqlEeafl_RWpn8xdQ" elementId="org.eclipse.datatools.sqltools.SQLEditorScope" bindingContext="_sq2O1nqlEeafl_RWpn8xdQ">
     <bindings xmi:id="_sq1qTnqlEeafl_RWpn8xdQ" keySequence="ALT+C" command="_sq3eOXqlEeafl_RWpn8xdQ"/>
@@ -1009,7 +1008,7 @@
   <bindingTables xmi:id="_sq2Oz3qlEeafl_RWpn8xdQ" bindingContext="_sq2PNHqlEeafl_RWpn8xdQ"/>
   <bindingTables xmi:id="_sq2O0HqlEeafl_RWpn8xdQ" bindingContext="_sq2PNXqlEeafl_RWpn8xdQ"/>
   <bindingTables xmi:id="_6gmK5ITAEeaNLr5iH-66qA" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_sq2O_XqlEeafl_RWpn8xdQ">
-    <bindings xmi:id="_lVo7oIYWEeaD_vuBptwvcA" keySequence="M1+W" command="_6gmK4oTAEeaNLr5iH-66qA"/>
+    <bindings xmi:id="_gTtjwIYfEeaSK44lGGktuQ" keySequence="M1+W" command="_6gmK4oTAEeaNLr5iH-66qA"/>
   </bindingTables>
   <rootContext xmi:id="_sq2O0XqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs and Windows" description="Either a dialog or a window is open">
     <children xmi:id="_sq2O0nqlEeafl_RWpn8xdQ" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Windows" description="A window is open">
