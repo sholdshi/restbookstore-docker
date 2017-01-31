@@ -8231,3 +8231,6 @@ Contains: Directory does not exist: /Users/sholdshi/bwce/bwce/2.1/system/hotfix/
 
 !ENTRY org.eclipse.bpel.validator 1 0 2017-01-31 10:47:06.219
 !MESSAGE Validator Startup 43ms
+
+!ENTRY org.eclipse.emf.validation 2 70 2017-01-31 10:54:39.749
+!MESSAGE Constraint "com.tibco.bw.sharedresource.trinity.ssl.editor.com.tibco.trinity.ssl.editor.invalid.remote.host.constraint" could not find target EMF type "SSLServerConfiguration."
