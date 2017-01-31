@@ -1087,12 +1087,13 @@
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
                                     <styles
-                                    restoreHeight="280"
+                                    collapsed="true"
+                                    restoreHeight="284"
                                     restoreWidth="650"
                                     restoreX="2" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.0"/>
                                     <layoutConstraint
-                                    height="280"
+                                    height="22"
                                     width="650"
                                     x="2" xsi:type="notation:Bounds"/>
                                     </children>
@@ -1429,16 +1430,16 @@
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
                                     <styles
-                                    restoreHeight="143"
+                                    restoreHeight="145"
                                     restoreWidth="650"
                                     restoreX="2"
-                                    restoreY="285" xsi:type="bwnotation:ResizingStyle"/>
+                                    restoreY="283" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.1"/>
                                     <layoutConstraint
-                                    height="143"
-                                    width="485"
+                                    height="145"
+                                    width="650"
                                     x="2"
-                                    xsi:type="notation:Bounds" y="285"/>
+                                    xsi:type="notation:Bounds" y="21"/>
                                     </children>
                                     <children type="4011">
                                     <children type="3012">
@@ -1716,11 +1717,18 @@
                                     fontName="Segoe UI"
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
-                                    <styles xsi:type="bwnotation:ResizingStyle"/>
+                                    <styles
+                                    collapsed="true"
+                                    restoreHeight="142"
+                                    restoreWidth="650"
+                                    restoreX="2"
+                                    restoreY="304" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.2"/>
                                     <layoutConstraint
-                                    height="140"
-                                    width="485" xsi:type="notation:Bounds"/>
+                                    height="22"
+                                    width="650"
+                                    x="2"
+                                    xsi:type="notation:Bounds" y="165"/>
                                     </children>
                                     <children type="4011">
                                     <children type="3012">
@@ -2052,11 +2060,18 @@
                                     fontName="Segoe UI"
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
-                                    <styles xsi:type="bwnotation:ResizingStyle"/>
+                                    <styles
+                                    collapsed="true"
+                                    restoreHeight="142"
+                                    restoreWidth="650"
+                                    restoreX="2"
+                                    restoreY="325" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.3"/>
                                     <layoutConstraint
-                                    height="140"
-                                    width="485" xsi:type="notation:Bounds"/>
+                                    height="22"
+                                    width="650"
+                                    x="2"
+                                    xsi:type="notation:Bounds" y="186"/>
                                     </children>
                                     <children type="4011">
                                     <children type="3012">
@@ -2335,13 +2350,18 @@
                                     fontName="Segoe UI"
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
-                                    <styles xsi:type="bwnotation:ResizingStyle"/>
+                                    <styles
+                                    collapsed="true"
+                                    restoreHeight="152"
+                                    restoreWidth="650"
+                                    restoreX="2"
+                                    restoreY="346" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.4"/>
                                     <layoutConstraint
-                                    height="150"
+                                    height="22"
                                     width="650"
                                     x="2"
-                                    xsi:type="notation:Bounds" y="711"/>
+                                    xsi:type="notation:Bounds" y="207"/>
                                     </children>
                                     <children type="4011">
                                     <children type="3012">
@@ -2619,11 +2639,18 @@
                                     fontName="Segoe UI"
                                     lineColor="0" xsi:type="notation:ShapeStyle"/>
                                     <styles xsi:type="bwnotation:BackgroundStyle"/>
-                                    <styles xsi:type="bwnotation:ResizingStyle"/>
+                                    <styles
+                                    collapsed="true"
+                                    restoreHeight="145"
+                                    restoreWidth="650"
+                                    restoreX="2"
+                                    restoreY="367" xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0/@messages.5"/>
                                     <layoutConstraint
-                                    height="140"
-                                    width="485" xsi:type="notation:Bounds"/>
+                                    height="22"
+                                    width="650"
+                                    x="2"
+                                    xsi:type="notation:Bounds" y="228"/>
                                     </children>
                                     <styles xsi:type="notation:SortingStyle"/>
                                     <styles xsi:type="notation:FilteringStyle"/>
@@ -2634,8 +2661,7 @@
                                     <styles xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity/@activities.0"/>
                                     <layoutConstraint
-                                    height="1035"
-                                    width="625" xsi:type="notation:Bounds"/>
+                                    height="280" width="625" xsi:type="notation:Bounds"/>
                                     </children>
                                     <styles xsi:type="notation:DrawerStyle"/>
                                     <styles xsi:type="notation:SortingStyle"/>
@@ -2649,7 +2675,7 @@
                                     gradientStartColor="16777215" xsi:type="bwnotation:BackgroundStyle"/>
                                     <styles xsi:type="bwnotation:ResizingStyle"/>
                                     <element href="//0/@process/@activity/@activity"/>
-                                    <layoutConstraint height="1045"
+                                    <layoutConstraint height="1050"
                                     width="679" xsi:type="notation:Bounds"/>
                                 </children>
                                 <styles xsi:type="notation:SortingStyle"/>
@@ -3194,7 +3220,7 @@
                             </bpws:extensionActivity>
                             <bpws:extensionActivity>
                                 <tibex:activityExtension
-                                    expression="0.0"
+                                    expression="0.9"
                                     expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath2.0"
                                     inputVariable="Discount"
                                     name="Discount"
@@ -3205,7 +3231,7 @@
                                     </bpws:sources>
                                     <tibex:inputBindings>
                                     <tibex:inputBinding
-                                    expression="0.0" expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath2.0"/>
+                                    expression="0.9" expressionLanguage="urn:oasis:names:tc:wsbpel:2.0:sublang:xpath2.0"/>
                                     </tibex:inputBindings>
                                     <tibex:config>
                                     <bwext:BWActivity
