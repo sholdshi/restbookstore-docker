@@ -1949,3 +1949,12 @@ java.lang.NullPointerException
 
 !ENTRY com.tibco.bw.core.design.process.editor 4 0 2017-04-26 17:43:38.745
 !MESSAGE BWDiagramUpdater.getPartnerLinkOperations_3006SemanticChildren() PartnerLink = org.eclipse.bpel.model.impl.PartnerLinkImpl@738f6e44 (documentationElement: null, element: [bpws:partnerLink: null]) (name: Book1, initializePartnerRole: <unset>); My Role = org.eclipse.bpel.model.partnerlinktype.impl.RoleImpl@46245500 (documentationElement: null, element: [plnk:role: null]) (required: false, elementType: null) (name: use, portType: null); portType = null
+
+!ENTRY com.tibco.bw.core.design.process.editor 4 0 2017-04-26 17:48:09.154
+!MESSAGE BWDiagramUpdater.getPartnerLinkOperations_3006SemanticChildren() PartnerLink = org.eclipse.bpel.model.impl.PartnerLinkImpl@2d8bba45 (documentationElement: null, element: [bpws:partnerLink: null]) (name: Books, initializePartnerRole: <unset>); My Role = org.eclipse.bpel.model.partnerlinktype.impl.RoleImpl@44a03de5 (documentationElement: null, element: [plnk:role: null]) (required: false, elementType: null) (name: use, portType: null); portType = null
+
+!ENTRY com.tibco.bw.core.design.process.editor 4 0 2017-04-26 17:48:09.161
+!MESSAGE BWDiagramUpdater.getPartnerLinkOperations_3006SemanticChildren() PartnerLink = org.eclipse.bpel.model.impl.PartnerLinkImpl@62d743a4 (documentationElement: null, element: [bpws:partnerLink: null]) (name: Book, initializePartnerRole: <unset>); My Role = org.eclipse.bpel.model.partnerlinktype.impl.RoleImpl@7acb4a51 (documentationElement: null, element: [plnk:role: null]) (required: false, elementType: null) (name: use, portType: null); portType = null
+
+!ENTRY com.tibco.bw.core.design.process.editor 4 0 2017-04-26 17:48:09.168
+!MESSAGE BWDiagramUpdater.getPartnerLinkOperations_3006SemanticChildren() PartnerLink = org.eclipse.bpel.model.impl.PartnerLinkImpl@738f6e44 (documentationElement: null, element: [bpws:partnerLink: null]) (name: Book1, initializePartnerRole: <unset>); My Role = org.eclipse.bpel.model.partnerlinktype.impl.RoleImpl@46245500 (documentationElement: null, element: [plnk:role: null]) (required: false, elementType: null) (name: use, portType: null); portType = null
